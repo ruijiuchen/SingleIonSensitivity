@@ -1,0 +1,5 @@
+# Output files (generated at runtime)
+*.png
+*.root
+*.csv
+frame_plots/
